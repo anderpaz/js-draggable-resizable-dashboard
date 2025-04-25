@@ -1,2 +1,4 @@
 # draggable-resizable-dashboard
-Created with CodeSandbox
+
+
+Um layout no formato de grid, arastar e soltar.
